@@ -1,6 +1,6 @@
 # Olá, seres humanos
 - Meu nome é Antonio, curso engenharia de software
-- Estou no primeiro semestre
+- Estou no segundo semestre
 - Estudo no IFSP-SCL
 
 ## Tecnologias
