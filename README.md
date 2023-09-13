@@ -1,4 +1,4 @@
-# Olá, seres humanos
+# Olá, user!
 - Meu nome é Antonio, curso engenharia de software
 - Estou no segundo semestre
 - Estudo no IFSP-SCL
