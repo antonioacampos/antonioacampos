@@ -1,6 +1,6 @@
 # Olá, user!
 - Meu nome é Antonio, curso engenharia de software
-- Estou no segundo semestre
+- Estou no terceiro semestre
 - Estudo no IFSP-SCL
 
 ## Tecnologias
