@@ -1,6 +1,6 @@
 # Olá, user!
 - Meu nome é Antonio, curso engenharia de software
-- Estou no terceiro semestre
+- Estou no quarto semestre
 - Estudo no IFSP-SCL
 
 ## Linguagens, ferramentas e tecnologias
@@ -16,5 +16,7 @@
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 [![](https://github-readme-stats.vercel.app/api?username=antonioacampos)](https://github.com/anuraghazra/github-readme-stats)
