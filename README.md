@@ -2,6 +2,7 @@
 - Meu nome é Antonio, curso engenharia de software
 - Estou no quinto semestre
 - Estudo no IFSP-SCL
+- Atualmente trabalho com PHP Laravel
 
 ## Linguagens, ferramentas e tecnologias
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
