@@ -1,7 +1,7 @@
 # Olá, user!
 - Meu nome é Antonio, curso engenharia de software atualmente no quinto semestre
 - Estudo no IFSP-SCL
-- Atualmente trabalho com PHP Laravel na Universidade de São Paulo (USP)
+- Atualmente trabalho com PHP Laravel Full Stack
 - Contato através do [LinkedIn](https://www.linkedin.com/in/antonioacampos)
 
 ## Linguagens, ferramentas e tecnologias
