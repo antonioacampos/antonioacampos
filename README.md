@@ -1,6 +1,5 @@
 # Olá, user!
-- Meu nome é Antonio, curso engenharia de software atualmente no sexto semestre
-- Estudo no IFSP-SCL
+- Meu nome é Antonio, curso engenharia de software no IFSP-SCL
 - Atualmente trabalho com PHP Laravel Full Stack
 - Contato através do [LinkedIn](https://www.linkedin.com/in/antonioacampos)
 
