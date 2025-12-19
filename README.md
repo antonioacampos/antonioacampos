@@ -1,8 +1,7 @@
 # Olá, user!
-- Meu nome é Antonio, curso engenharia de software no IFSP-SCL
+- Meu nome é [Antonio](https://antonioacampos.github.io/), curso engenharia de software no IFSP-SCL
 - Atualmente trabalho com PHP Laravel Full Stack
 - Contato através do [LinkedIn](https://www.linkedin.com/in/antonioacampos)
-- Visite também meu [portfólio](https://antonioacampos.github.io/)!
 
 ## Linguagens, ferramentas e tecnologias
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
