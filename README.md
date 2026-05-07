@@ -1,6 +1,6 @@
 # Olá, user!
 - Meu nome é [Antonio](https://antonioacampos.github.io/), curso engenharia de software no IFSP-SCL
-- Atualmente trabalho com PHP Laravel Full Stack
+- Atualmente trabalho com C# e Delphi!
 - Contato através do [LinkedIn](https://www.linkedin.com/in/antonioacampos)
 
 ## Linguagens, ferramentas e tecnologias
